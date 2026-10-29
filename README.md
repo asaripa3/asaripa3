@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Adarsh Saripalli, Founding AI Engineer. Building AI that listens, reasons, and acts." src="./assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
+  <img alt="Adarsh Saripalli, Founding AI Engineer at CellaNova Technologies" src="./assets/header-light.svg">
 </picture>
 
 ## About
