@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="1040px" height="530px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1040px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">              =-:-=+==-</tspan>
+<tspan x="15" y="70">        ...-=*+-+%%#%%%#*+=--:...</tspan>
+<tspan x="15" y="90">        ..-+#%#%@@@@%****+=-::.....</tspan>
+<tspan x="15" y="110">    :...-=*#*%@@@@@@@@#*##*+==-......</tspan>
+<tspan x="15" y="130">     -=++*##%%@@@@@@@%%##@@@###*=-:..:=-</tspan>
+<tspan x="15" y="150">     =+**##%###%@@%##%%@@%%##*+-.:-=:..:-</tspan>
+<tspan x="15" y="170">     +####%%%%##+=--=++*%%%%%##*+-=+=:..</tspan>
+<tspan x="15" y="190">     +#%%@%@@%+=-::::::-=+*#%%%%%#+-...::</tspan>
+<tspan x="15" y="210">    -*#%%@%@@*=--:......::=+*###%#*=::...</tspan>
+<tspan x="15" y="230">    -*##%%%@%++*+++=-....-=*#%%%###*+=-::</tspan>
+<tspan x="15" y="250">      *##%@@##@@@@@@@@*+%@@@@@@@@#%@%##*+=</tspan>
+<tspan x="15" y="270">      +%@***-*@@@@@@@@+:%@@@@@@@@==#*@%*</tspan>
+<tspan x="15" y="290">       =%+*-::*%%%%%%*..=#%%%%%#=..++%@+</tspan>
+<tspan x="15" y="310">         -=-.......::.....:........-=**</tspan>
+<tspan x="15" y="330">          -+-:.....:.:..:.::.......:</tspan>
+<tspan x="15" y="350">          -*+=---===+*++*+===::::::--</tspan>
+<tspan x="15" y="370">          #%++=+##*==-::-=+##=-==-=:=+=</tspan>
+<tspan x="15" y="390">          *@#***+=--:....::=++++++%@#*+</tspan>
+<tspan x="15" y="410">           *%*##*=-:-++=-:-=+**+-*+++:-</tspan>
+<tspan x="15" y="430">              =+**+=======+*#*+:</tspan>
+<tspan x="15" y="450">               -=+*********+=-:.</tspan>
+<tspan x="15" y="470">               .----=++==--::...</tspan>
+<tspan x="15" y="490">                  ---    -</tspan>
+</text>
+<text x="480" y="30" fill="#c9d1d9">
+<tspan x="480" y="30">adarsh@saripalli <tspan class="cc">────────────────────────────────────────</tspan></tspan>
+<tspan x="480" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">macOS, Linux, iOS</tspan>
+<tspan x="480" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">CellaNova Technologies</tspan>
+<tspan x="480" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Founding AI Engineer</tspan>
+<tspan x="480" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Voice agents, LangGraph, RAG</tspan>
+<tspan x="480" y="130" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">MS</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">ASU, Computer Science, 3.93</tspan>
+<tspan x="480" y="150" class="cc">. </tspan><tspan class="key">Education</tspan>.<tspan class="key">BTech</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Andhra University, CSE</tspan>
+<tspan x="480" y="170" class="cc">. </tspan><tspan class="key">Research</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">DARPA ASIST @ ASU</tspan>
+<tspan x="480" y="190" class="cc">. </tspan>
+<tspan x="480" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, TypeScript, Swift</tspan>
+<tspan x="480" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">SQL, PostgreSQL, Redis</tspan>
+<tspan x="480" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">LangGraph, Bedrock, PyTorch</tspan>
+<tspan x="480" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Realtime</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Twilio, WebRTC, WebSockets</tspan>
+<tspan x="480" y="290" class="cc">. </tspan>
+<tspan x="480" y="310" class="cc">. </tspan><tspan class="key">Shipped</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">NovaSpeak, RFP, Quote, Recruit</tspan>
+<tspan x="480" y="330" class="cc">. </tspan><tspan class="key">Voice</tspan>.<tspan class="key">Latency</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">&lt; 500ms end to end</tspan>
+<tspan x="480" y="350" class="cc">. </tspan><tspan class="key">RAG</tspan>.<tspan class="key">Traceability</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">96.2% over 1,700+ RFPs</tspan>
+<tspan x="480" y="390">- Contact <tspan class="cc">───────────────────────────────────────────────</tspan></tspan>
+<tspan x="480" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">adarshsaripalli15@gmail.com</tspan>
+<tspan x="480" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">asaripalli15</tspan>
+<tspan x="480" y="450" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">adarsh-saripalli.vercel.app</tspan>
+<tspan x="480" y="490">- Status <tspan class="cc">────────────────────────────────────────────────</tspan></tspan>
+<tspan x="480" y="510" class="cc">. </tspan><tspan class="key">Open</tspan>.<tspan class="key">To</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Engineering roles, 2026</tspan>
+</text>
+</svg>
