@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
   <img alt="Adarsh Saripalli, Founding AI Engineer at CellaNova Technologies" src="./assets/header-light.svg">
 </picture>
 
